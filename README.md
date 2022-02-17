@@ -94,4 +94,4 @@ Samo profesionalni igrači imaju mogućnost prijave na takmičenje, te učestvov
 2. Zaposlenik- osoba koja radi za TK Love Game. Zaposlenici imaju mogućnost odobravanja zakazanih termina i treninga, unosa bodova za igrače,editovanje rang liste, 
 te kreiranje Sara Slam-a.
 
-3. Administrator- Administrator ima mogućnost zapošljavanja radnika, otpuštanja radnika, odobravanja korisničkog računa.
+3. Administrator- Administrator ima mogućnost zapošljavanja radnika, otpuštanja radnika, odobravanja korisničkih računa.
