@@ -18,7 +18,7 @@ rang listi igrača kluba.
 
 Također, aplikacija olakšava posao i uposlenicima kluba. Svaki trener će biti u mogućnosti kreirati grupe polaznika u 
 par klikova, unositi bodove na rang liste, kao i formirati žrijeb za Sara Slam koji se održava svaka tri mjeseca i 
-gdje učestvuje osam najbolje rangiranih igrača.
+gdje učestvuje osam najbolje rangiranih igrača. 
 
 ## Procesi
 
