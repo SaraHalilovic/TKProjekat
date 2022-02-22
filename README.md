@@ -32,7 +32,7 @@ administrator. Verifikovani korisnik se prijavljuje na sistem unošenjem svog em
 
 ###### Registracija/Zapošljavanje osoblja
 
-Registraciju, pregled, ažuriranje i brisanje novog osoblja obavlja administrator. 
+Registraciju, pregled, ažuriranje i brisanje novog osoblja obavlja administrator . 
 Registraciju/Zapošljavanje osoblja vrši administrator iz svoje forme, unoseći lične podatake, kao i podatake o plati zaposlenika.
 
 
