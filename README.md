@@ -1,4 +1,4 @@
-﻿# Grupa4-Quake
+﻿# Grupa4-Quake 
  <p align="center">
   <img width="300" height="200" src="https://user-images.githubusercontent.com/37187803/37837589-e2653366-2eb5-11e8-9eb3-4594d321624a.jpg">
 </p>
@@ -94,4 +94,4 @@ Samo profesionalni igrači imaju mogućnost prijave na takmičenje, te učestvov
 2. Zaposlenik- osoba koja radi za TK Love Game. Zaposlenici imaju mogućnost odobravanja zakazanih termina i treninga, unosa bodova za igrače,editovanje rang liste, 
 te kreiranje Sara Slam-a.
 
-3. Administrator- Administrator ima mogućnost zapošljavanja radnika, otpuštanja radnika, odobravanja korisničkih računa..
+3. Administrator- Administrator ima mogućnost zapošljavanja radnika, otpuštanja radnika, odobravanja korisničkih računa.
